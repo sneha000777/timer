@@ -1,3 +1,52 @@
+# Full Screen Timer
+
+A simple and visually appealing fullscreen timer application built with HTML, CSS, and JavaScript. This timer allows users to start, stop, and reset the timer seamlessly, making it ideal for tasks that require focus, such as workouts, study sessions, or presentations.
+
+---
+
+## Features
+
+- **Fullscreen Design**: Covers the entire viewport for distraction-free use.
+- **User-Friendly Interface**: Large font size and intuitive buttons for easy interaction.
+- **Timer Controls**:
+  - Start the timer from 00:00:00.
+  - Stop the timer and resume later.
+  - Restart the timer anytime.
+
+---
+
+## How to Use
+
+1. **Start the Timer**: Click the `Start` button to begin counting.
+2. **Stop the Timer**: Click the `Stop` button to pause the timer.
+3. **Resume the Timer**: Click the `Resume` button to continue from where you stopped.
+4. **Restart the Timer**: Click `Restart` (the Start button after the timer is running) to reset and start from 00:00:00.
+
+---
+
+## Installation and Setup
+
+To run this project locally:
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/your-username/full-screen-timer.git
+    ```
+
+2. Navigate to the project directory:
+    ```bash
+    cd full-screen-timer
+    ```
+
+3. Open `index.html` in your favorite web browser:
+    ```bash
+    open index.html
+    ```
+
+---
+
+## Project Structure
+
 
 ---
 

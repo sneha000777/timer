@@ -53,10 +53,12 @@ To run this project locally:
 ## Screenshots
 
 ### Initial Screen
-![Initial Timer](https://via.placeholder.com/800x400.png?text=Timer+Initial+Screen)
+![Screenshot (87)](https://github.com/user-attachments/assets/e9d4c3a7-5e61-4264-85ed-413b777ac765)
+
 
 ### Running Timer
-![Running Timer](https://via.placeholder.com/800x400.png?text=Timer+Running)
+![Screenshot (88)](https://github.com/user-attachments/assets/9245cbf4-7ae2-4fe4-8e7f-a44da77c8fd9)
+
 
 ---
 
